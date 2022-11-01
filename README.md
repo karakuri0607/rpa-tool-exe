@@ -1,6 +1,8 @@
 # 概要
 画面操作をCSVに記録して、記録したCSVを選択して実行することで同じ操作を自動化させることができます。<br>
 
+![RPAツール](https://user-images.githubusercontent.com/10617518/199230360-30d502fc-47b4-4743-9a6a-efd5bec4b327.gif)
+
 # 機能
 ### １．画面の手動操作の記録機能
 
